@@ -4,6 +4,24 @@ Sistema web para gestión de estudiantes en prácticas del Hospital Universitari
 
 ---
 
+## Tecnologías utilizadas
+
+| Tecnología | Rol en el proyecto |
+|---|---|
+| ![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=flat&logo=openjdk&logoColor=white) | Lenguaje del backend |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) | Framework REST API |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | Base de datos relacional |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | Hosting de la base de datos en la nube |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | Framework del frontend |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Tipado estático en el frontend |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) | Bundler y servidor de desarrollo |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Control de versiones |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Repositorio remoto |
+| ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagramsdotnet&logoColor=white) | Diagramas y modelado |
+| ![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoftword&logoColor=white) | Documentación del proyecto |
+
+---
+
 ## Vista previa del proyecto
 
 | Login | Dashboard |
